@@ -1,4 +1,4 @@
-import GameCard from './GameCard';
+import GameCard from './GameCard.jsx';
 
 export default function GameGrid({ games, onSelectGame }) {
   if (games.length === 0) {

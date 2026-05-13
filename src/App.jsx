@@ -1,8 +1,8 @@
 import { useState, useMemo } from 'react';
 import { AnimatePresence, motion } from 'motion/react';
-import Navbar from './components/Navbar';
-import GameGrid from './components/GameGrid';
-import GamePlayer from './components/GamePlayer';
+import Navbar from './components/Navbar.jsx';
+import GameGrid from './components/GameGrid.jsx';
+import GamePlayer from './components/GamePlayer.jsx';
 import gamesData from './data/games.json';
 import { Gamepad2, Sparkles, TrendingUp } from 'lucide-react';
 
