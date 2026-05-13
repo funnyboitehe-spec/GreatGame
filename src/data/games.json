@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "category": "Puzzle",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "Fast-paced puzzle game inspired by Tetris on a hexagon.",
+    "category": "Arcade",
+    "url": "https://hextris.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "little-alchemy",
+    "title": "Little Alchemy",
+    "description": "Combine elements to create new items and explore the world.",
+    "category": "Puzzle",
+    "url": "https://littlealchemy.com/",
+    "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "paper-io-2",
+    "title": "Paper.io 2",
+    "description": "Conquer as much territory as possible and beat your competition.",
+    "category": "Action",
+    "url": "https://paper-io.com/",
+    "thumbnail": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "hole-io",
+    "title": "Hole.io",
+    "description": "Be a black hole and swallow everything in the city.",
+    "category": "Action",
+    "url": "https://hole-io.com/",
+    "thumbnail": "https://images.unsplash.com/photo-1506399558188-daf6f8e7979e?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "slither-io",
+    "title": "Slither.io",
+    "description": "Become the longest snake and survive.",
+    "category": "Action",
+    "url": "https://slither.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1534361960057-19889db9621e?auto=format&fit=crop&q=80&w=400"
+  }
+]
